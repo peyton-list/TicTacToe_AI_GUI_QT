@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\dialog.o
+./release\x.o
+./release\o.o
+./release\board.o
+./release\moc_mainwindow.o
+./release\moc_dialog.o
+./release\moc_x.o
+./release\moc_o.o
+./release\moc_board.o
+);
